@@ -10,3 +10,4 @@ def fizzbuzz(number)
     puts "nil"
 end
 end
+fizz_(number) = fizzbuzz(number)
