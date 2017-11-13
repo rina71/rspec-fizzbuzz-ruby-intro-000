@@ -7,3 +7,6 @@ def fizzbuzz(number)
 else number / 3 and 5
   puts "Fizzbuzz"
 end
+fizzbuzz (3)
+fizzbuzz (5)
+fizzbuzz (15)
