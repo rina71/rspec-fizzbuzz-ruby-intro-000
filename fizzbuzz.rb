@@ -4,7 +4,7 @@ def fizzbuzz(number)
       "Fizz"
     elsif number % 5 == 0
 "Buzz"
-elsif number % 15 == 0
+elsif number % 15 == 1
   "Fizzbuzz"
 
 end
